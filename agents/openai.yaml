@@ -1,0 +1,4 @@
+interface:
+  display_name: "儿童活动排期及海报制作"
+  short_description: "核对每周课表与双语流程，确认总览和单课样张，制作PNG海报并归档清理"
+  default_prompt: "请使用 $weekly-course-posters，根据本周最新课表和教案，完成信息核对、两类样张确认及PNG海报交付。"
